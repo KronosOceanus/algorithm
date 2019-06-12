@@ -9,7 +9,9 @@ public class OrderedCollection {
 
     //设置底层数组长度
     private void setComparablesLength(int length){
+        //新建一个数字
         Comparable[] cs = new Comparable[length];
+        //元素复制
         for (int i=0;i<size;i++){
             cs[i] = comparables[i];
         }
@@ -32,11 +34,12 @@ public class OrderedCollection {
     }
     //插入数据
     public Comparable insert(Comparable c){
+        //扩充集合
         if (size  == comparables.length){
             setComparablesLength(size + 1);
         }
         comparables[size] = c;
-        size++;
+        size ++;
         return c;
     }
     //删除数据
@@ -44,6 +47,7 @@ public class OrderedCollection {
         for (int i=0;i<size;i++){
             if (c.compareTo(comparables[i]) == 0){
                 comparables[i] = null;
+                //集合整体向前移动
                 for (int j=i;j<size;j++){
                     comparables[j] = comparables[j+1];
                 }

@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1addf3d-dff3-48b0-be39-8020e6af98c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArrayList类实现/src/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList类实现/src/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack类两种实现/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack类两种实现/src/MyStack_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack类两种实现/src/MyStack_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../后缀表达式/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../后缀表达式/src/InSuffix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AVL树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,33 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CircularLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="243">
+              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
               <folding>
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
                 <element signature="method#add#0;class#CircularLinkedList#0" />
-                <element signature="e#877#878#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
                 <element signature="method#get#0;class#CircularLinkedList#0" />
-                <element signature="e#1087#1088#0" expanded="true" />
-                <element signature="e#1125#1126#0" expanded="true" />
                 <element signature="method#remove#0;class#CircularLinkedList#0" />
               </folding>
             </state>
@@ -78,7 +61,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="220" />
-    <option name="y" value="6" />
+    <option name="y" value="5" />
     <option name="width" value="1400" />
     <option name="height" value="1035" />
   </component>
@@ -90,6 +73,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,8 +91,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,17 +140,18 @@
       <updated>1559729204921</updated>
       <workItem from="1559729206498" duration="2082000" />
       <workItem from="1559814970226" duration="32000" />
+      <workItem from="1560313525120" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2114000" />
+    <option name="totallyTimeSpent" value="2123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="176" y="5" width="1120" height="828" extended-state="0" />
+    <frame x="176" y="4" width="1120" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25894538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,32 +186,22 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/CircularLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="243">
+          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding>
+            <element signature="method#add#0;class#CircularLinkedList#0" />
+            <element signature="method#get#0;class#CircularLinkedList#0" />
+            <element signature="method#remove#0;class#CircularLinkedList#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircularLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding>
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="method#add#0;class#CircularLinkedList#0" />
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-            <element signature="method#get#0;class#CircularLinkedList#0" />
-            <element signature="e#1087#1088#0" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-            <element signature="method#remove#0;class#CircularLinkedList#0" />
-          </folding>
+        <state relative-caret-position="250">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>

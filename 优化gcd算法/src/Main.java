@@ -1,10 +1,12 @@
 public class Main {
 
     private static long gcd(long m,long n){
+
         while (n != 0){
             long rem = m % n;
             m = n;
             n = rem;
+            //在循环中利用gcd性质判断，减少计算量
             if ((m & 1) == 0 && (n & 1) == 0){
                 m = m >> 1;
                 n = n >> 1;

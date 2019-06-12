@@ -27,7 +27,7 @@ public class Main {
         int minSum = 0;
         Item[] b = new Item[a.length];
 
-        //前index + 1位的累加，（数组）
+        //前index + 1位的累加（数组）
         for (int i=0;i<a.length;i++){
             b[i] = new Item();
             b[i].index = i;

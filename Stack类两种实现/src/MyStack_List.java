@@ -1,5 +1,6 @@
 /**
  * 单链表实现
+ * 包含一个尾结点
  */
 public class MyStack_List<T> {
 

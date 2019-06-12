@@ -2,16 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23fd8d7a-dcb6-415e-bdba-7a5e9bf08313" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArrayList类实现/src/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Josephus问题/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Josephus问题/src/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList类实现/src/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyStack_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyStack_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../后缀表达式/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../后缀表达式/src/InSuffix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AVL树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/out/production/2的100次方/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/out/production/2的100次方/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/out/production/Comparable实现泛型类/OrderedCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/out/production/Comparable实现泛型类/OrderedCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/src/OrderedCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/src/OrderedCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyStack_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyStack_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/out/production/二分插入法求解选择问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/out/production/二分插入法求解选择问题/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分查找/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分查找/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/out/production/快速判断素数/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/out/production/快速判断素数/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小正子序列和/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小正子序列和/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小正子序列和/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小正子序列和/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小正子序列和/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../最小正子序列和/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../求最大子序列/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../求最大子序列/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../求最大子序列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../求最大子序列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../求最大子序列/out/production/求最大子序列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/out/production/解字谜游戏问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/out/production/解字谜游戏问题/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../高效幂运算/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../高效幂运算/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../高效幂运算/out/production/高效幂运算/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/out/production/高效幂运算/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../高效幂运算/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,20 +58,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyStack_List.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
-              <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -67,8 +103,8 @@
         <option value="$PROJECT_DIR$/src/MyStack1.java" />
         <option value="$PROJECT_DIR$/src/MyStack2.java" />
         <option value="$PROJECT_DIR$/src/MyStack_Array.java" />
-        <option value="$PROJECT_DIR$/src/MyStack_List.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/MyStack_List.java" />
       </list>
     </option>
   </component>
@@ -154,17 +190,18 @@
       <workItem from="1559652962558" duration="244000" />
       <workItem from="1559715883230" duration="349000" />
       <workItem from="1559729388750" duration="1220000" />
+      <workItem from="1560325120552" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3778000" />
+    <option name="totallyTimeSpent" value="3806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="208" y="0" width="1120" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2636535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26836157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -199,6 +236,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyStack_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -209,14 +253,7 @@
     <entry file="file://$PROJECT_DIR$/src/MyStack_List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
-          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
         </state>
       </provider>
     </entry>

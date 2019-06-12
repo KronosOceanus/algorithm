@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44ecac7a-22c7-44d9-9009-8536b7737076" name="Default Changelist" comment="" />
+    <list default="true" id="44ecac7a-22c7-44d9-9009-8536b7737076" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AVL树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/out/production/2的100次方/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/out/production/2的100次方/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2的100次方/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/out/production/Comparable实现泛型类/OrderedCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/out/production/Comparable实现泛型类/OrderedCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable实现泛型类/src/OrderedCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable实现泛型类/src/OrderedCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/out/production/二分插入法求解选择问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/out/production/二分插入法求解选择问题/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../求最大子序列/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../求最大子序列/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../求最大子序列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../求最大子序列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../求最大子序列/out/production/求最大子序列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/out/production/解字谜游戏问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/out/production/解字谜游戏问题/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +44,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="112">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -30,19 +63,20 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="422" />
-    <option name="y" value="87" />
+    <option name="x" value="222" />
+    <option name="y" value="30" />
     <option name="width" value="1500" />
     <option name="height" value="965" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,17 +127,18 @@
       <workItem from="1557817656296" duration="337000" />
       <workItem from="1558428151499" duration="872000" />
       <workItem from="1559399943933" duration="1759000" />
+      <workItem from="1560324121735" duration="108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2968000" />
+    <option name="totallyTimeSpent" value="3076000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="338" y="70" width="1200" height="772" extended-state="0" />
+    <frame x="178" y="24" width="1200" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25831875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.262697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -112,7 +147,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -165,8 +200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="112">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>

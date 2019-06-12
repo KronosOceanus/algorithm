@@ -1,3 +1,6 @@
+/**
+ * 下列二维数组中，横/竖/斜能组成哪些单词
+ */
 public class Main {
 
     private static final int LEN = 4;
@@ -23,6 +26,7 @@ public class Main {
                         sb1.append(cs[i][n]);
                         sb2.append(cs[n][i]);
                     }
+                    //输出组成的单词
                     if (sb1.toString().equals(words[j])){
                         System.out.println(sb1);
                     }
