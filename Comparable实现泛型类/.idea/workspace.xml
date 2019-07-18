@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9f1f515-02e7-4ad1-b2ef-95658c45f83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AVL树/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2的100次方/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2的100次方/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2的100次方/out/production/2的100次方/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/out/production/2的100次方/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2的100次方/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2的100次方/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrderedCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderedCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/out/production/二分插入法求解选择问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/out/production/二分插入法求解选择问题/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二分插入法求解选择问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二分插入法求解选择问题/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/out/production/解字谜游戏问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/out/production/解字谜游戏问题/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../解字谜游戏问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../解字谜游戏问题/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/META-INF/AVL树.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单链表是否包含循环/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单链表是否包含循环/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/out/production/寻找数组中的主元素/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/out/production/寻找数组中的主元素/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小正子序列和/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小正子序列和/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../高效幂运算/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../高效幂运算/out/production/高效幂运算/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/out/production/高效幂运算/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../高效幂运算/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Comp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="225">
               <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
@@ -57,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OrderedCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+            <state relative-caret-position="550">
+              <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
               <folding>
                 <element signature="method#setComparablesLength#0;class#OrderedCollection#0" />
                 <element signature="method#makeEmpty#0;class#OrderedCollection#0" />
@@ -94,7 +95,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="245" />
-    <option name="y" value="6" />
+    <option name="y" value="5" />
     <option name="width" value="1500" />
     <option name="height" value="965" />
   </component>
@@ -104,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -122,6 +122,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,17 +171,18 @@
       <updated>1557663947564</updated>
       <workItem from="1557663955351" duration="3265000" />
       <workItem from="1560323737109" duration="175000" />
+      <workItem from="1563442085118" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3440000" />
+    <option name="totallyTimeSpent" value="3445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="5" width="1200" height="772" extended-state="0" />
+    <frame x="196" y="4" width="1200" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25394046" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25831875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -224,7 +226,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Comp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="225">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
@@ -237,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OrderedCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        <state relative-caret-position="550">
+          <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
           <folding>
             <element signature="method#setComparablesLength#0;class#OrderedCollection#0" />
             <element signature="method#makeEmpty#0;class#OrderedCollection#0" />

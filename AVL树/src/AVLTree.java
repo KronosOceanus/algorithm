@@ -165,7 +165,7 @@ public class AVLTree<T> {
 
     //平衡判断常量
     private static final int ALLOWED_IMBALANCE = 1;
-    //平衡判断，单双旋转
+    //平衡判断，单双旋转（旋转后高度会 + 1 / 唯一改变高度的方法）
     private AVLNode<T> balance(AVLNode<T> t){
         if (t == null){
             return t;
@@ -182,8 +182,11 @@ public class AVLTree<T> {
             }
         }else if (height(t.right) - height(t.left) > ALLOWED_IMBALANCE) {
             if (height(t.right.right) >= height(t.right.left)) {
+                //外侧单旋
                 t = rotateWithRightChild(t);
-            }else {
+            }
+            //内侧双旋
+            else {
                 t = doubleWithRightChild(t);
             }
         }
@@ -237,7 +240,7 @@ public class AVLTree<T> {
     }
 
 
-    //递归遍历
+    //中序遍历
     private void printTree(AVLNode<T> t){
         if(t != null){
             printTree(t.left);
@@ -252,7 +255,7 @@ public class AVLTree<T> {
         public T element;
         public AVLNode<T> left;
         public AVLNode<T> right;
-        //储存树的高度
+        //储存该节点的高度
         public int height;
 
         public AVLNode(T ele){

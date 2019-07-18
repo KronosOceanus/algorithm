@@ -8,16 +8,18 @@
 public class Main {
 
     private static int findMain(int[] a){
-        //假设主元素为a[0]
+
+        //寻找候选元！！！
+        //假设候选元为a[0]
         int result = a[0];
         //判断是否是候选元的标记（后续操作中 == 1则不是）（与N也有关）
         int mark = 1;
         for (int i=1;i<a.length;i++){
-            //两个相邻的数相同，则可能是主元素，不用执行判断
+            //两个相邻的数相同，则是候选元，不用执行判断
             if (result == a[i]){
                 mark ++;
             }
-            //不可能是主元素，重新假设主元素为a[i]，重置计数
+            //不可能是候选元，重新假设候选元为a[i]，重置计数
             else if (mark == 1){
                 result = a[i];
                 mark = 1;
@@ -27,7 +29,9 @@ public class Main {
                 mark --;
             }
         }
-        //出现次数
+
+        //判断是否为主元素！！！
+        //候选元出现次数
         int count = 0;
         for (int s : a){
             if (s == result){

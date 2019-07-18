@@ -2,8 +2,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(pow1(2,2));
-        System.out.println(pow2(2,2));
+        System.out.println(pow1(5,3));
+        System.out.println(pow2(5,3));
     }
 
     //计算x的n次方（递归分治）
@@ -24,6 +24,7 @@ public class Main {
      * 所以x^11 = x^8 * x^2 * x^1
      * base为基数，以x^1 , x^2 , x^4的方式递增
      */
+    //基数每次翻基数倍，质数每次二进制消去一位
     private static long pow2(long x,int n){
         long result = 1;
         long base = x;
@@ -34,7 +35,7 @@ public class Main {
             }
             //基数变为原来的平方
             base *= base;
-            //指数变为原来的一半
+            //指数变为原来的一半（即二进制消去一位）
             n >>= 1;
         }
         return result;
