@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="452ae7ff-bf37-43fd-9770-14598e75be4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../文件树/src/FileTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../文件树/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/META-INF/AVL树.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList类实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList类实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/src/MyTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/src/MyTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3300">
-              <caret line="163" column="18" lean-forward="true" selection-start-line="163" selection-start-column="18" selection-end-line="163" selection-end-column="18" />
+            <state relative-caret-position="350">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />
@@ -154,17 +160,19 @@
       <workItem from="1560325968320" duration="62000" />
       <workItem from="1560326187356" duration="22000" />
       <workItem from="1563441348953" duration="9000" />
+      <workItem from="1568448904595" duration="1063000" />
+      <workItem from="1568513617004" duration="56000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8762000" />
+    <option name="totallyTimeSpent" value="9881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="120" y="8" width="1120" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27306968" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2843691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -212,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
-          <caret line="163" column="18" lean-forward="true" selection-start-line="163" selection-start-column="18" selection-end-line="163" selection-end-column="18" />
+        <state relative-caret-position="350">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />

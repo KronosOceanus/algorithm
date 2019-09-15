@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f028598-3492-4f68-8b71-229d8735ecfb" name="Default Changelist" comment="" />
+    <list default="true" id="1f028598-3492-4f68-8b71-229d8735ecfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../文件树/src/FileTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../文件树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList类实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList类实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +28,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="249">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -23,14 +41,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyTreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="233">
+              <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
+                <element signature="method#MyTreeSet#1;class#MyTreeSet#0" />
                 <element signature="method#clear#0;class#MyTreeSet#0" />
-                <element signature="class#Node#0;class#MyTreeSet#0" />
+                <element signature="method#printTree#0;class#MyTreeSet#0" />
+                <element signature="method#findMin#0;class#MyTreeSet#0" />
+                <element signature="method#findMax#0;class#MyTreeSet#0" />
+                <element signature="method#contains#1;class#MyTreeSet#0" />
+                <element signature="method#printTree#1;class#MyTreeSet#0" />
+                <element signature="method#insert#1;class#MyTreeSet#0" />
+                <element signature="method#remove#1;class#MyTreeSet#0" />
+                <element signature="class#TreeSetIterator#0;class#MyTreeSet#0" />
+                <element signature="method#next#0;class#TreeSetIterator#0;class#MyTreeSet#0" />
+                <element signature="method#remove#0;class#TreeSetIterator#0;class#MyTreeSet#0" />
+                <element signature="class#BinaryNode#0;class#MyTreeSet#0" />
               </folding>
             </state>
           </provider>
@@ -45,10 +71,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MyTreeSet.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -57,6 +87,9 @@
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,7 +120,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560688652353" />
-    <property name="last_opened_file_path" value="D:/project/algorithm/AVL树" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../二叉查找树" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,16 +163,22 @@
       <updated>1560686888133</updated>
       <workItem from="1560686889766" duration="1776000" />
       <workItem from="1560688672778" duration="2000" />
+      <workItem from="1568448664786" duration="4166000" />
+      <workItem from="1568452853641" duration="1263000" />
+      <workItem from="1568510242437" duration="618000" />
+      <workItem from="1568511205108" duration="1404000" />
+      <workItem from="1568512743294" duration="2061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1778000" />
+    <option name="totallyTimeSpent" value="11290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="20" width="1400" height="768" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2719821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -148,8 +187,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32861635" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -158,10 +197,10 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962743" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -174,23 +213,42 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://D:/Software/jdk/lib/src.zip!/java.base/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="249">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="233">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
+            <element signature="method#MyTreeSet#1;class#MyTreeSet#0" />
             <element signature="method#clear#0;class#MyTreeSet#0" />
-            <element signature="class#Node#0;class#MyTreeSet#0" />
+            <element signature="method#printTree#0;class#MyTreeSet#0" />
+            <element signature="method#findMin#0;class#MyTreeSet#0" />
+            <element signature="method#findMax#0;class#MyTreeSet#0" />
+            <element signature="method#contains#1;class#MyTreeSet#0" />
+            <element signature="method#printTree#1;class#MyTreeSet#0" />
+            <element signature="method#insert#1;class#MyTreeSet#0" />
+            <element signature="method#remove#1;class#MyTreeSet#0" />
+            <element signature="class#TreeSetIterator#0;class#MyTreeSet#0" />
+            <element signature="method#next#0;class#TreeSetIterator#0;class#MyTreeSet#0" />
+            <element signature="method#remove#0;class#TreeSetIterator#0;class#MyTreeSet#0" />
+            <element signature="class#BinaryNode#0;class#MyTreeSet#0" />
           </folding>
         </state>
       </provider>

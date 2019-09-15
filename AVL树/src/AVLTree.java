@@ -250,7 +250,7 @@ public class AVLTree<T> {
     }
 
 
-    //节点类
+    //节点类（嵌套类）
     private static class AVLNode<T>{
         public T element;
         public AVLNode<T> left;
