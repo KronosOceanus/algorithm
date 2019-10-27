@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db80c99b-8c1d-4e1b-8327-4312cafa95e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoubleHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../布谷鸟散列/src/CuckooHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../布谷鸟散列/src/HashFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../布谷鸟散列/src/StringHashFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../平方探测散列表/src/QuadraticProbingHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../懒惰删除二叉树/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/src/ThreadedTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/双散列/DoubleHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/双散列/DoubleHashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../平方探测散列表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../平方探测散列表/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -27,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DoubleHashTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            <state relative-caret-position="243">
+              <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
               <folding>
                 <element signature="method#makeEmpty#0;class#DoubleHashTable#0" />
                 <element signature="class#HashEntry#0;class#DoubleHashTable#0" />
@@ -76,6 +96,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,14 +113,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568423271679" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../平方探测散列表" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,17 +162,19 @@
       <updated>1568421910649</updated>
       <workItem from="1568421918796" duration="1356000" />
       <workItem from="1568428002243" duration="21000" />
+      <workItem from="1569836335030" duration="98000" />
+      <workItem from="1571546955778" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1377000" />
+    <option name="totallyTimeSpent" value="1508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="4" width="1388" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338346" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26090226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -187,10 +209,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DoubleHashTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        <state relative-caret-position="243">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
           <folding>
             <element signature="method#makeEmpty#0;class#DoubleHashTable#0" />
             <element signature="class#HashEntry#0;class#DoubleHashTable#0" />
@@ -198,13 +227,6 @@
             <element signature="method#rehash#0;class#DoubleHashTable#0" />
             <element signature="method#nextPrime#0;class#DoubleHashTable#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>

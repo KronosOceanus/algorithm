@@ -33,10 +33,13 @@ public class SeparateChainingHashTable<T> {
 
 
     //主要操作
+    //找到对应 List，是否包含 x
     public boolean contains(T x){
         List<T> whichList = theLists[myhash(x)];
         return whichList.contains(x);
     }
+    //找到对应 List，如果不包含 x，则插入
+    // λ > 1 则再散列
     public void insert(T x){
         List<T> whichList = theLists[myhash(x)];
         if (! whichList.contains(x)){
@@ -47,6 +50,7 @@ public class SeparateChainingHashTable<T> {
             };
         }
     }
+    //找到对应 list，包含 x 则删除
     public void remove(T x){
         List<T> whichList = theLists[myhash(x)];
         if (whichList.contains(x)){

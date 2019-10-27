@@ -2,12 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b107d49-df4f-4350-a56d-ae3c687fcb9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CuckooHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringHashFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../平方探测散列表/src/QuadraticProbingHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../懒惰删除二叉树/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/src/ThreadedTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable$HashEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CuckooHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CuckooHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringHashFamily.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringHashFamily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../平方探测散列表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../平方探测散列表/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -30,10 +54,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StringHashFamily.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state relative-caret-position="175">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding>
-                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashFamily.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="150">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -51,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CuckooHashTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+            <state relative-caret-position="825">
+              <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
               <folding>
                 <element signature="method#CuckooHashTable#1;class#CuckooHashTable#0" />
                 <element signature="method#insert#0;class#CuckooHashTable#0" />
@@ -61,8 +86,6 @@
                 <element signature="method#allocateArray#0;class#CuckooHashTable#0" />
                 <element signature="method#doClear#0;class#CuckooHashTable#0" />
                 <element signature="method#findPos#0;class#CuckooHashTable#0" />
-                <element signature="e#3028#3029#0" expanded="true" />
-                <element signature="e#3083#3084#0" expanded="true" />
                 <element signature="method#rehash#0;class#CuckooHashTable#0" />
                 <element signature="method#rehash#1;class#CuckooHashTable#0" />
                 <element signature="method#myhash#0;class#CuckooHashTable#0" />
@@ -89,8 +112,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/HashFamily.java" />
-        <option value="$PROJECT_DIR$/src/StringHashFamily.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/StringHashFamily.java" />
         <option value="$PROJECT_DIR$/src/CuckooHashTable.java" />
       </list>
     </option>
@@ -107,8 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,13 +146,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568427873413" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../平方探测散列表" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,45 +196,46 @@
       <option name="presentableId" value="Default" />
       <updated>1568423703105</updated>
       <workItem from="1568423704381" duration="4176000" />
+      <workItem from="1571547087475" duration="641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4176000" />
+    <option name="totallyTimeSpent" value="4817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="4" width="1388" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962406" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32902297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,32 +244,33 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HashFamily.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringHashFamily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringHashFamily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#704#705#0" expanded="true" />
-          </folding>
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CuckooHashTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        <state relative-caret-position="825">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
           <folding>
             <element signature="method#CuckooHashTable#1;class#CuckooHashTable#0" />
             <element signature="method#insert#0;class#CuckooHashTable#0" />
@@ -254,8 +279,6 @@
             <element signature="method#allocateArray#0;class#CuckooHashTable#0" />
             <element signature="method#doClear#0;class#CuckooHashTable#0" />
             <element signature="method#findPos#0;class#CuckooHashTable#0" />
-            <element signature="e#3028#3029#0" expanded="true" />
-            <element signature="e#3083#3084#0" expanded="true" />
             <element signature="method#rehash#0;class#CuckooHashTable#0" />
             <element signature="method#rehash#1;class#CuckooHashTable#0" />
             <element signature="method#myhash#0;class#CuckooHashTable#0" />

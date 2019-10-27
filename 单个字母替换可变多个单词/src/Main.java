@@ -9,6 +9,7 @@ import java.util.TreeMap;
  */
 public class Main {
 
+    //一个单词通过替换至少可以变成其他 15 个单词
     private static final int MIN_WORDS = 15;
 
     //输出符合条件的单词
@@ -58,10 +59,10 @@ public class Main {
     computeAdjacentWords_One(List<String> theWords){
         //目标单词映射
         Map<String, List<String>> adjWords = new TreeMap<>();
-
+        //开辟数组，并填充
         String[] words = new String[theWords.size()];
         theWords.toArray(words);
-
+        //一个一个对比
         for (int i=0;i<words.length;i++){
             for (int j=i+1;j<words.length;j++){
                 if (oneCharOff(words[i],words[j])){
@@ -94,11 +95,11 @@ public class Main {
         //把单词按照长度分组的Map
         Map<Integer,List<String>> wordsByLength = new TreeMap<>();
 
-        //分组操作
+        //分组
         for (String w : theWords){
             update(wordsByLength, w.length(), w);
         }
-
+        //把每一组化为数组，比较
         for (List<String> groupsWords : wordsByLength.values()){
             //转换成数组
             String[] words = new String[groupsWords.size()];
@@ -131,7 +132,7 @@ public class Main {
         for (String w : theWords){
             update(wordsByLength, w.length(), w);
         }
-
+        //遍历按单词长度分组的 Map
         for (Map.Entry<Integer, List<String>> entry : wordsByLength.entrySet()){
             List<String> groupWords = entry.getValue();
             int groupNum = entry.getKey();
@@ -140,7 +141,7 @@ public class Main {
                 //附加的Map
                 Map<String, List<String>> repToWord = new TreeMap<>();
 
-                //把前/中/后缀及其value添加到附加的Map中
+                //把除掉一个字母后的 前/中/后缀 及其 value 添加到附加的Map中
                 for (String str : groupWords){
                     String rep = str.substring(0,i) + str.substring(i + 1);
                     update(repToWord, rep, str);
@@ -151,7 +152,7 @@ public class Main {
                     if (wordClique.size() >= 2){
                         for (String s1 : wordClique){
                             for (String s2 : wordClique){
-                                if (s1 != s2){
+                                if (! s1.equals(s2)){
                                     update(adjWords, s1, s2);
                                 }
                             }
@@ -166,6 +167,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        String str = "qwertyuiop";
+        System.out.println(str.substring(0, 2) + str.substring(3));
     }
 }

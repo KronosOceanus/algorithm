@@ -64,6 +64,7 @@ public class DoubleHashTable<T> {
         int i=0;
         int currentPos = myhash(x);
 
+        //冲突！
         while(array[currentPos] != null && !array[currentPos].element.equals(x)){
             i++;
             //双散列！
@@ -106,7 +107,7 @@ public class DoubleHashTable<T> {
 
         return hashVal;
     }
-    //附加散列函数
+    //附加散列函数，其中 R 为 < tableSize 的质数
     private int myhash2(T x){
         return R - (x.hashCode() % R);
     }

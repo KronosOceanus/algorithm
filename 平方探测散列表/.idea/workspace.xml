@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745d2382-78ce-4281-83ef-9770904fbc0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../布谷鸟散列/src/CuckooHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../布谷鸟散列/src/HashFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../布谷鸟散列/src/StringHashFamily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuadraticProbingHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../懒惰删除二叉树/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/src/ThreadedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../跳房子散列/src/HopScotchHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable$HashEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/CuckooHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/CuckooHashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/StringHashFamily.class" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/StringHashFamily.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/src/CuckooHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/src/CuckooHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/src/StringHashFamily.java" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/src/StringHashFamily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,13 +59,15 @@
         <entry file="file://$PROJECT_DIR$/src/QuadraticProbingHashTable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
               <folding>
+                <element signature="method#QuadraticProbingHashTable#0;class#QuadraticProbingHashTable#0" />
                 <element signature="method#QuadraticProbingHashTable#1;class#QuadraticProbingHashTable#0" />
                 <element signature="method#makeEmpty#0;class#QuadraticProbingHashTable#0" />
                 <element signature="method#contains#0;class#QuadraticProbingHashTable#0" />
                 <element signature="method#insert#0;class#QuadraticProbingHashTable#0" />
                 <element signature="method#remove#0;class#QuadraticProbingHashTable#0" />
+                <element signature="class#HashEntry#0;class#QuadraticProbingHashTable#0" />
                 <element signature="method#findPos#0;class#QuadraticProbingHashTable#0" />
                 <element signature="method#rehash#0;class#QuadraticProbingHashTable#0" />
                 <element signature="method#myhash#0;class#QuadraticProbingHashTable#0" />
@@ -80,7 +110,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,17 +185,19 @@
       <workItem from="1568423167600" duration="113000" />
       <workItem from="1568423872699" duration="1267000" />
       <workItem from="1568427886855" duration="33000" />
+      <workItem from="1571546817842" duration="112000" />
+      <workItem from="1572154734442" duration="440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5200000" />
+    <option name="totallyTimeSpent" value="5752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="4" width="1388" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27593985" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28496242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -210,13 +242,15 @@
     <entry file="file://$PROJECT_DIR$/src/QuadraticProbingHashTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
           <folding>
+            <element signature="method#QuadraticProbingHashTable#0;class#QuadraticProbingHashTable#0" />
             <element signature="method#QuadraticProbingHashTable#1;class#QuadraticProbingHashTable#0" />
             <element signature="method#makeEmpty#0;class#QuadraticProbingHashTable#0" />
             <element signature="method#contains#0;class#QuadraticProbingHashTable#0" />
             <element signature="method#insert#0;class#QuadraticProbingHashTable#0" />
             <element signature="method#remove#0;class#QuadraticProbingHashTable#0" />
+            <element signature="class#HashEntry#0;class#QuadraticProbingHashTable#0" />
             <element signature="method#findPos#0;class#QuadraticProbingHashTable#0" />
             <element signature="method#rehash#0;class#QuadraticProbingHashTable#0" />
             <element signature="method#myhash#0;class#QuadraticProbingHashTable#0" />

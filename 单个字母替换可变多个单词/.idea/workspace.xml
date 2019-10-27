@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d088fa1-67bf-4e1d-891a-e7d11b8d2c32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../懒惰删除二叉树/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/src/ThreadedTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/META-INF/AVL树.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +36,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="126" column="29" lean-forward="true" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
+            <state relative-caret-position="347">
+              <caret line="134" column="24" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
               <folding>
                 <element signature="method#printHighChangeables#0;class#Main#0" />
                 <element signature="method#oneCharOff#0;class#Main#0" />
                 <element signature="method#computeAdjacentWords_One#0;class#Main#0" />
                 <element signature="method#update#0;class#Main#0" />
                 <element signature="method#computeAdjacentWords_Two#0;class#Main#0" />
-                <element signature="method#computeAdjacentWords_Three#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -46,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="180" />
     <option name="width" value="1400" />
     <option name="height" value="1035" />
@@ -57,7 +72,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,13 +88,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560310290398" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571537409808" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,17 +141,18 @@
       <workItem from="1560313286571" duration="223000" />
       <workItem from="1560326221871" duration="670000" />
       <workItem from="1563441297445" duration="43000" />
+      <workItem from="1571536559543" duration="874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3466000" />
+    <option name="totallyTimeSpent" value="4340000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="144" y="0" width="1120" height="828" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2636535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19101876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -144,7 +161,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -154,7 +171,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -172,15 +189,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="126" column="29" lean-forward="true" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
+        <state relative-caret-position="347">
+          <caret line="134" column="24" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
           <folding>
             <element signature="method#printHighChangeables#0;class#Main#0" />
             <element signature="method#oneCharOff#0;class#Main#0" />
             <element signature="method#computeAdjacentWords_One#0;class#Main#0" />
             <element signature="method#update#0;class#Main#0" />
             <element signature="method#computeAdjacentWords_Two#0;class#Main#0" />
-            <element signature="method#computeAdjacentWords_Three#0;class#Main#0" />
           </folding>
         </state>
       </provider>

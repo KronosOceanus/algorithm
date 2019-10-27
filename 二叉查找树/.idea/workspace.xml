@@ -2,18 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="452ae7ff-bf37-43fd-9770-14598e75be4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../文件树/src/FileTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件树/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../懒惰删除二叉树/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/src/ThreadedTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList类实现/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList类实现/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/src/MyTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/src/MyTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/二叉查找树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/二叉查找树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,12 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="43" />
-              <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="575">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -40,14 +44,28 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="354">
+              <caret line="259" lean-forward="true" selection-start-line="259" selection-end-line="259" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />
                 <element signature="method#myCompare#0;class#BinarySearchTree#0" />
                 <element signature="method#findMin#0;class#BinarySearchTree#0" />
                 <element signature="method#findMax#0;class#BinarySearchTree#0" />
+                <element signature="method#printTree#0;class#BinarySearchTree#0" />
+                <element signature="method#contains#1;class#BinarySearchTree#0" />
+                <element signature="method#findMin#1;class#BinarySearchTree#0" />
+                <element signature="method#findMax#1;class#BinarySearchTree#0" />
+                <element signature="method#insert#1;class#BinarySearchTree#0" />
+                <element signature="method#remove#1;class#BinarySearchTree#0" />
+                <element signature="method#printTree#1;class#BinarySearchTree#0" />
+                <element signature="method#printCount#0;class#BinarySearchTree#0" />
+                <element signature="method#printByLevel#0;class#BinarySearchTree#0" />
+                <element signature="method#countNodes#0;class#BinarySearchTree#0" />
+                <element signature="method#countLeaves#0;class#BinarySearchTree#0" />
+                <element signature="method#countFull#0;class#BinarySearchTree#0" />
+                <element signature="method#printAreaDatas#1;class#BinarySearchTree#0" />
+                <element signature="method#printByLevel#1;class#BinarySearchTree#0" />
                 <element signature="class#BinaryNode#0;class#BinarySearchTree#0" />
               </folding>
             </state>
@@ -88,8 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,12 +122,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560045852361" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571536497509" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -162,17 +180,23 @@
       <workItem from="1563441348953" duration="9000" />
       <workItem from="1568448904595" duration="1063000" />
       <workItem from="1568513617004" duration="56000" />
+      <workItem from="1569747333492" duration="618000" />
+      <workItem from="1569750215137" duration="16000" />
+      <workItem from="1569828480073" duration="34000" />
+      <workItem from="1569833919449" duration="2407000" />
+      <workItem from="1571464347625" duration="4056000" />
+      <workItem from="1571535052148" duration="1486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9881000" />
+    <option name="totallyTimeSpent" value="18498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="120" y="8" width="1120" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2843691" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31826743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -191,7 +215,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32902297" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -209,25 +233,35 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="43" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="575">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="354">
+          <caret line="259" lean-forward="true" selection-start-line="259" selection-end-line="259" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />
             <element signature="method#myCompare#0;class#BinarySearchTree#0" />
             <element signature="method#findMin#0;class#BinarySearchTree#0" />
             <element signature="method#findMax#0;class#BinarySearchTree#0" />
+            <element signature="method#printTree#0;class#BinarySearchTree#0" />
+            <element signature="method#contains#1;class#BinarySearchTree#0" />
+            <element signature="method#findMin#1;class#BinarySearchTree#0" />
+            <element signature="method#findMax#1;class#BinarySearchTree#0" />
+            <element signature="method#insert#1;class#BinarySearchTree#0" />
+            <element signature="method#remove#1;class#BinarySearchTree#0" />
+            <element signature="method#printTree#1;class#BinarySearchTree#0" />
+            <element signature="method#printCount#0;class#BinarySearchTree#0" />
+            <element signature="method#printByLevel#0;class#BinarySearchTree#0" />
+            <element signature="method#countNodes#0;class#BinarySearchTree#0" />
+            <element signature="method#countLeaves#0;class#BinarySearchTree#0" />
+            <element signature="method#countFull#0;class#BinarySearchTree#0" />
+            <element signature="method#printAreaDatas#1;class#BinarySearchTree#0" />
+            <element signature="method#printByLevel#1;class#BinarySearchTree#0" />
             <element signature="class#BinaryNode#0;class#BinarySearchTree#0" />
           </folding>
         </state>

@@ -43,7 +43,7 @@ public class Queue<T> {
         return result;
     }
 
-    //判断开始和结束下标是否越界
+    //判断开始和结束下标是否越界（越界就返回 0）
     private void judge(){
         if (front == DEFAULT_CAPACITY){
             front = 0;

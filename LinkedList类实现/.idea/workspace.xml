@@ -2,16 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7feabcf-5eeb-4eae-bfdf-32b1c0d25f5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../列出目录中所有文件/src/FileTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../列出目录中所有文件/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../懒惰删除二叉树/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../线索树/src/ThreadedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../跳房子散列/src/HopScotchHashTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack类两种实现/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeSet类实现/src/MyTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSet类实现/src/MyTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue类两种实现/src/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分离链接散列表/src/SeparateChainingHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/out/production/单个字母替换可变多个单词/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable$HashEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/DoubleHashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/out/production/双散列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../双散列/src/DoubleHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/CuckooHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/CuckooHashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/StringHashFamily.class" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/out/production/布谷鸟散列/StringHashFamily.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/src/CuckooHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/src/CuckooHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../布谷鸟散列/src/StringHashFamily.java" beforeDir="false" afterPath="$PROJECT_DIR$/../布谷鸟散列/src/StringHashFamily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../平方探测散列表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../平方探测散列表/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding>
                 <element signature="method#doClear#0;class#MyLinkedList#0" />
                 <element signature="method#add#0;class#MyLinkedList#0" />
@@ -169,17 +193,17 @@
       <workItem from="1560325465279" duration="33000" />
       <workItem from="1568449233899" duration="21000" />
       <workItem from="1568449646669" duration="13000" />
+      <workItem from="1572155377919" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16189000" />
+    <option name="totallyTimeSpent" value="16285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="12" width="1120" height="828" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30131826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30696797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -234,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+        <state relative-caret-position="75">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
             <element signature="method#doClear#0;class#MyLinkedList#0" />
             <element signature="method#add#0;class#MyLinkedList#0" />

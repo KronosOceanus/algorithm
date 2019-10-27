@@ -33,6 +33,7 @@ public class CuckooHashTable<T> {
     public boolean contains(T x){
         return findPos(x) != -1;
     }
+    //包含则插入失败，λ > MAX_LOAD 就扩容
     public boolean insert(T x){
         if (contains(x)){
             return false;
@@ -45,6 +46,7 @@ public class CuckooHashTable<T> {
         //交给插入辅助操作处理
         return insertHelper(x);
     }
+    //找到位置并删除
     public boolean remove(T x){
         int pos = findPos(x);
 
@@ -63,7 +65,9 @@ public class CuckooHashTable<T> {
         final int COUNT_LIMIT = 100;
 
         while(true){
+            //循环替换过程中上一个元素位置
             int lastPos = -1;
+            //元素当前要插入的位置
             int pos;
 
             //循环替换主要实现
@@ -94,6 +98,8 @@ public class CuckooHashTable<T> {
                 if ( ++ rehashes > ALLOWED_REHASHES){
                     //扩容
                     expand();
+                    //重置
+                    rehashes = 0;
                 }
                 else{
                     //换函数组

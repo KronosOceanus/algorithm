@@ -239,7 +239,6 @@ public class AVLTree<T> {
         return rotateWithRightChild(k3);
     }
 
-
     //中序遍历
     private void printTree(AVLNode<T> t){
         if(t != null){
@@ -247,6 +246,33 @@ public class AVLTree<T> {
             System.out.print(t.element + "\t");
             printTree(t.right);
         }
+    }
+
+    //练习！！！
+    //判断二叉树是否平衡
+    public boolean isBalance(){
+        return checkBalance(root);
+    }
+    private boolean checkBalance(AVLNode<T> root) {
+        //空树平衡
+        if(root == null)
+            return true;
+        //求左右节点深度（左右子树高度）
+        int right = deep(root.right);
+        int left = deep(root.left);
+        //不平衡
+        if(Math.abs(left - right) > 1)
+            return false;
+        //左右子树都平衡
+        return checkBalance(root.right) && checkBalance(root.left);
+    }
+    //递归求节点的深度
+    private int deep(AVLNode<T> t) {
+        if(t == null)
+            return 0;
+        int deepRight = deep(t.right);
+        int deepLeft = deep(t.left);
+        return 1 + (deepRight>deepLeft ? deepRight : deepLeft);
     }
 
 

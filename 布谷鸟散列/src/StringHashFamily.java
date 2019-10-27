@@ -5,6 +5,7 @@ import java.util.Random;
  */
 public class StringHashFamily implements HashFamily<String> {
 
+    //用数组保存一组随机数，代表这组散列函数的 key
     private final int[] MULTIPLIERS;
     private final Random r = new Random();
 

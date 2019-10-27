@@ -1,5 +1,7 @@
 import java.nio.BufferUnderflowException;
 import java.util.Comparator;
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * 各种操作的平均时间约为 O(log N)
@@ -61,6 +63,7 @@ public class BinarySearchTree<T> {
             System.out.println("Empty tree！");
         }else {
             printTree(root);
+            System.out.println();
         }
     }
 
@@ -165,6 +168,95 @@ public class BinarySearchTree<T> {
         }
     }
 
+
+    //练习！！！
+    //只用对根的引用，计算树中节点、叶、满节点的个数
+    public void printCount(){
+        System.out.println("Nodes=" + countNodes(root) + "\t" +
+                "Leaves=" + countLeaves(root) + "\t" +
+                "Full=" + countFull(root));
+    }
+    //二叉树的区间打印
+    public void printAreaDatas(T begin, T end) {
+        printAreaDatas(root, begin, end);
+    }
+    //层序遍历
+    public void printByLevel(){
+        System.out.println();
+        printByLevel(root);
+    }
+
+    //练习！！！private
+    //递归计算左右子树包含数量，相加
+    private int countNodes(BinaryNode<T> t){
+        if (t == null){
+            return 0;
+        }
+        return countNodes(t.left) + countNodes(t.right) + 1;
+    }
+    private int countLeaves(BinaryNode<T> t){
+        if (t == null){
+            return 0;
+        }else if(t.left == null && t.right == null){
+            return 1;
+        }else {
+            return countLeaves(t.left) + countLeaves(t.right);
+        }
+    }
+    private int countFull(BinaryNode<T> t){
+        if (t == null){
+            return 0;
+        }else if (t.left != null && t.right != null){
+            //子树满节点 + 父节点
+            return countFull(t.left) + countFull(t.right) + 1;
+        }else {
+            return countFull(t.left) + countFull(t.right);
+        }
+    }
+    //递归，中序遍历输出
+    private void printAreaDatas(BinaryNode<T> t, T begin, T end) {
+        if (t == null) {//树为空
+            return;
+        }
+
+        //当前值比起始值大
+        if (cmp.compare(t.element, begin) > 0) {
+            //往左走
+            printAreaDatas(t.left, begin, end);
+        }
+        //当前值比起始值大，比结束值小
+        if (cmp.compare(t.element, begin) >= 0 &&
+                cmp.compare(t.element, end) <= 0) {
+            //符合要求 打印
+            System.out.print(t.element + "\t");
+        }
+        if (cmp.compare(t.element, end) < 0) ;
+        {
+            //只有当前值比end 值小的时候才有必要访问其右子树
+            printAreaDatas(t.right, begin, end);
+        }
+    }
+    //层序遍历（边输出，边将两个儿子结点入队）
+    private void printByLevel(BinaryNode<T> t){
+        //队列
+        LinkedList<BinaryNode<T>> queue = new LinkedList<>();
+        BinaryNode<T> front;
+
+        queue.push(t);
+        while(! queue.isEmpty()){
+            front = queue.pollFirst();  //获取并删除队列头元素
+
+            //两个儿子结点入队
+            if (front.left != null){
+                queue.offer(front.left);
+            }
+            if (front.right != null){
+                queue.offer(front.right);
+            }
+
+            System.out.print(front.element + "\t");
+        }
+    }
 
 
     //节点类
