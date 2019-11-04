@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452ae7ff-bf37-43fd-9770-14598e75be4e" name="Default Changelist" comment="">
+    <list default="true" id="7dd52193-aa51-4c60-888c-f5279021e41f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/description.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/encodings.xml" afterDir="false" />
@@ -14,8 +14,9 @@
       <change afterPath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../二叉堆/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../二叉堆/二叉堆.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../左式堆/src/LeftistHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../二项队列/src/BinomialQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeftistHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,38 +30,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="175">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+        <entry file="file://$PROJECT_DIR$/src/LeftistHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="150">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />
-                <element signature="method#myCompare#0;class#BinarySearchTree#0" />
-                <element signature="method#findMin#0;class#BinarySearchTree#0" />
-                <element signature="method#findMax#0;class#BinarySearchTree#0" />
-                <element signature="method#printTree#0;class#BinarySearchTree#0" />
-                <element signature="method#contains#1;class#BinarySearchTree#0" />
-                <element signature="method#findMin#1;class#BinarySearchTree#0" />
-                <element signature="method#findMax#1;class#BinarySearchTree#0" />
-                <element signature="method#insert#1;class#BinarySearchTree#0" />
-                <element signature="method#remove#1;class#BinarySearchTree#0" />
-                <element signature="method#printTree#1;class#BinarySearchTree#0" />
-                <element signature="method#printCount#0;class#BinarySearchTree#0" />
-                <element signature="method#printByLevel#0;class#BinarySearchTree#0" />
-                <element signature="method#countNodes#0;class#BinarySearchTree#0" />
-                <element signature="method#countLeaves#0;class#BinarySearchTree#0" />
-                <element signature="method#countFull#0;class#BinarySearchTree#0" />
-                <element signature="method#printAreaDatas#1;class#BinarySearchTree#0" />
-                <element signature="method#printByLevel#1;class#BinarySearchTree#0" />
-                <element signature="class#BinaryNode#0;class#BinarySearchTree#0" />
+                <element signature="method#LeftistHeap#0;class#LeftistHeap#0" />
+                <element signature="method#insert#0;class#LeftistHeap#0" />
+                <element signature="method#deleteMin#0;class#LeftistHeap#0" />
+                <element signature="method#merge#0;class#LeftistHeap#0" />
+                <element signature="method#merge#1;class#LeftistHeap#0" />
+                <element signature="method#merge1#0;class#LeftistHeap#0" />
+                <element signature="method#swapChildren#0;class#LeftistHeap#0" />
+                <element signature="class#Node#0;class#LeftistHeap#0" />
               </folding>
             </state>
           </provider>
@@ -82,49 +71,47 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/LeftistHeap.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="150" />
     <option name="y" value="10" />
     <option name="width" value="1400" />
     <option name="height" value="1035" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="二叉查找树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉查找树" type="462c0819:PsiDirectoryNode" />
+              <item name="左式堆" type="b2602c69:ProjectViewProjectNode" />
+              <item name="左式堆" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="二叉查找树" type="b2602c69:ProjectViewProjectNode" />
-              <item name="二叉查找树" type="462c0819:PsiDirectoryNode" />
+              <item name="左式堆" type="b2602c69:ProjectViewProjectNode" />
+              <item name="左式堆" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571536497509" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572662069469" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../二叉查找树" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,10 +125,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LeftistHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeftistHeap" />
+      <module name="左式堆" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="二叉查找树" />
+      <module name="左式堆" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -152,47 +146,35 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LeftistHeap" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
-    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="452ae7ff-bf37-43fd-9770-14598e75be4e" name="Default Changelist" comment="" />
-      <created>1560040812901</created>
+      <changelist id="7dd52193-aa51-4c60-888c-f5279021e41f" name="Default Changelist" comment="" />
+      <created>1572585892893</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560040812901</updated>
-      <workItem from="1560040823891" duration="5065000" />
-      <workItem from="1560065020622" duration="3361000" />
-      <workItem from="1560325681232" duration="243000" />
-      <workItem from="1560325968320" duration="62000" />
-      <workItem from="1560326187356" duration="22000" />
-      <workItem from="1563441348953" duration="9000" />
-      <workItem from="1568448904595" duration="1063000" />
-      <workItem from="1568513617004" duration="56000" />
-      <workItem from="1569747333492" duration="618000" />
-      <workItem from="1569750215137" duration="16000" />
-      <workItem from="1569828480073" duration="34000" />
-      <workItem from="1569833919449" duration="2407000" />
-      <workItem from="1571464347625" duration="4056000" />
-      <workItem from="1571535052148" duration="1486000" />
-      <workItem from="1572159857181" duration="5000" />
-      <workItem from="1572588585647" duration="6000" />
+      <updated>1572585892893</updated>
+      <workItem from="1572585907497" duration="3041000" />
+      <workItem from="1572660455159" duration="1621000" />
+      <workItem from="1572662083538" duration="31000" />
+      <workItem from="1572828944243" duration="200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18509000" />
+    <option name="totallyTimeSpent" value="4893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="8" width="1120" height="828" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3314501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -201,8 +183,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994253" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -211,7 +193,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32902297" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -229,36 +211,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="175">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/LeftistHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="150">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />
-            <element signature="method#myCompare#0;class#BinarySearchTree#0" />
-            <element signature="method#findMin#0;class#BinarySearchTree#0" />
-            <element signature="method#findMax#0;class#BinarySearchTree#0" />
-            <element signature="method#printTree#0;class#BinarySearchTree#0" />
-            <element signature="method#contains#1;class#BinarySearchTree#0" />
-            <element signature="method#findMin#1;class#BinarySearchTree#0" />
-            <element signature="method#findMax#1;class#BinarySearchTree#0" />
-            <element signature="method#insert#1;class#BinarySearchTree#0" />
-            <element signature="method#remove#1;class#BinarySearchTree#0" />
-            <element signature="method#printTree#1;class#BinarySearchTree#0" />
-            <element signature="method#printCount#0;class#BinarySearchTree#0" />
-            <element signature="method#printByLevel#0;class#BinarySearchTree#0" />
-            <element signature="method#countNodes#0;class#BinarySearchTree#0" />
-            <element signature="method#countLeaves#0;class#BinarySearchTree#0" />
-            <element signature="method#countFull#0;class#BinarySearchTree#0" />
-            <element signature="method#printAreaDatas#1;class#BinarySearchTree#0" />
-            <element signature="method#printByLevel#1;class#BinarySearchTree#0" />
-            <element signature="class#BinaryNode#0;class#BinarySearchTree#0" />
+            <element signature="method#LeftistHeap#0;class#LeftistHeap#0" />
+            <element signature="method#insert#0;class#LeftistHeap#0" />
+            <element signature="method#deleteMin#0;class#LeftistHeap#0" />
+            <element signature="method#merge#0;class#LeftistHeap#0" />
+            <element signature="method#merge#1;class#LeftistHeap#0" />
+            <element signature="method#merge1#0;class#LeftistHeap#0" />
+            <element signature="method#swapChildren#0;class#LeftistHeap#0" />
+            <element signature="class#Node#0;class#LeftistHeap#0" />
           </folding>
         </state>
       </provider>

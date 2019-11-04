@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6f067a-b22b-427b-b612-dcddeb1f2420" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/二叉堆.iml" afterDir="false" />
+    <list default="true" id="8d77c70d-1e37-4255-8592-8b17e8ee6f60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/二叉堆/BinaryHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/二叉堆/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉堆.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../二项队列/src/BinomialQueue.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../左式堆/src/LeftistHeap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
@@ -27,26 +27,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-              <folding>
-                <element signature="method#multiplication#0;class#Main#0" />
-                <element signature="method#getExponent#0;class#Main#0" />
-                <element signature="method#printHashMap#0;class#Main#0" />
-                <element signature="method#main#0;class#Main#0" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Item.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinaryHeap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="method#BinaryHeap#1;class#BinaryHeap#0" />
+                <element signature="method#insert#0;class#BinaryHeap#0" />
+                <element signature="method#deleteMin#0;class#BinaryHeap#0" />
+                <element signature="method#findMin#0;class#BinaryHeap#0" />
+                <element signature="e#1858#1859#0" expanded="true" />
+                <element signature="e#1892#1893#0" expanded="true" />
+                <element signature="method#makeEmpty#0;class#BinaryHeap#0" />
+                <element signature="method#percolateDown#0;class#BinaryHeap#0" />
+                <element signature="method#enlargeArray#0;class#BinaryHeap#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,15 +71,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Item.java" />
+        <option value="$PROJECT_DIR$/src/BinaryHeap.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="5" />
-    <option name="width" value="1735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="10" />
+    <option name="width" value="1400" />
     <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,36 +88,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="散列表实现多项式相乘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="散列表实现多项式相乘" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉堆" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉堆" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="散列表实现多项式相乘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="散列表实现多项式相乘" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉堆" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二叉堆" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572157469106" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkedList类实现" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572163539739" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,7 +129,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="散列表实现多项式相乘" />
+      <module name="二叉堆" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -148,24 +148,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3d6f067a-b22b-427b-b612-dcddeb1f2420" name="Default Changelist" comment="" />
-      <created>1572155199318</created>
+      <changelist id="8d77c70d-1e37-4255-8592-8b17e8ee6f60" name="Default Changelist" comment="" />
+      <created>1572158265742</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572155199318</updated>
-      <workItem from="1572155200804" duration="2280000" />
-      <workItem from="1572829152313" duration="18000" />
+      <updated>1572158265742</updated>
+      <workItem from="1572158267026" duration="5243000" />
+      <workItem from="1572584475174" duration="1437000" />
+      <workItem from="1572588568219" duration="11000" />
+      <workItem from="1572828916964" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2298000" />
+    <option name="totallyTimeSpent" value="6716000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="4" width="1388" height="828" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338346" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -174,8 +176,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32902297" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48725212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -200,27 +202,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding>
-            <element signature="method#multiplication#0;class#Main#0" />
-            <element signature="method#getExponent#0;class#Main#0" />
-            <element signature="method#printHashMap#0;class#Main#0" />
-            <element signature="method#main#0;class#Main#0" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Item.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryHeap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
+            <element signature="method#BinaryHeap#1;class#BinaryHeap#0" />
+            <element signature="method#insert#0;class#BinaryHeap#0" />
+            <element signature="method#deleteMin#0;class#BinaryHeap#0" />
+            <element signature="method#findMin#0;class#BinaryHeap#0" />
+            <element signature="e#1858#1859#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="method#makeEmpty#0;class#BinaryHeap#0" />
+            <element signature="method#percolateDown#0;class#BinaryHeap#0" />
+            <element signature="method#enlargeArray#0;class#BinaryHeap#0" />
           </folding>
         </state>
       </provider>
