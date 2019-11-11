@@ -242,7 +242,7 @@ public class BinarySearchTree<T> {
         LinkedList<BinaryNode<T>> queue = new LinkedList<>();
         BinaryNode<T> front;
 
-        queue.push(t);
+        queue.offer(t);
         while(! queue.isEmpty()){
             front = queue.pollFirst();  //获取并删除队列头元素
 

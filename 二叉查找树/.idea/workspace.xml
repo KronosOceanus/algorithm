@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="452ae7ff-bf37-43fd-9770-14598e75be4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../二叉堆/二叉堆.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../左式堆/src/LeftistHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图的存储与读取/src/GraphUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图的存储与读取/src/LinkedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图的存储与读取/src/graph_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
+            <state relative-caret-position="190">
               <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
@@ -38,10 +33,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="131">
+              <caret line="244" column="20" selection-start-line="244" selection-start-column="20" selection-end-line="244" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />
                 <element signature="method#myCompare#0;class#BinarySearchTree#0" />
                 <element signature="method#findMin#0;class#BinarySearchTree#0" />
@@ -59,7 +53,6 @@
                 <element signature="method#countLeaves#0;class#BinarySearchTree#0" />
                 <element signature="method#countFull#0;class#BinarySearchTree#0" />
                 <element signature="method#printAreaDatas#1;class#BinarySearchTree#0" />
-                <element signature="method#printByLevel#1;class#BinarySearchTree#0" />
                 <element signature="class#BinaryNode#0;class#BinarySearchTree#0" />
               </folding>
             </state>
@@ -100,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -117,7 +111,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,17 +175,18 @@
       <workItem from="1571535052148" duration="1486000" />
       <workItem from="1572159857181" duration="5000" />
       <workItem from="1572588585647" duration="6000" />
+      <workItem from="1573104928343" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18509000" />
+    <option name="totallyTimeSpent" value="18604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="120" y="8" width="1120" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3314501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33804142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -229,17 +223,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
+        <state relative-caret-position="190">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="131">
+          <caret line="244" column="20" selection-start-line="244" selection-start-column="20" selection-end-line="244" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#BinarySearchTree#1;class#BinarySearchTree#0" />
             <element signature="method#myCompare#0;class#BinarySearchTree#0" />
             <element signature="method#findMin#0;class#BinarySearchTree#0" />
@@ -257,7 +250,6 @@
             <element signature="method#countLeaves#0;class#BinarySearchTree#0" />
             <element signature="method#countFull#0;class#BinarySearchTree#0" />
             <element signature="method#printAreaDatas#1;class#BinarySearchTree#0" />
-            <element signature="method#printByLevel#1;class#BinarySearchTree#0" />
             <element signature="class#BinaryNode#0;class#BinarySearchTree#0" />
           </folding>
         </state>

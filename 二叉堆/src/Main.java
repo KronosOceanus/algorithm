@@ -3,10 +3,11 @@ public class Main {
     public static void main(String[] args) {
         //二叉堆测试
         BinaryHeap<Integer> bh = new BinaryHeap<>(Integer::compareTo);
-        for (int i=1;i<20;i++){
+        for (int i=1;i<50;i++){
             bh.insert(i);
         }
-        for (int i=1;i<20;i++){
+        bh.changeKey(40,39);
+        for (int i=1;i<50;i++){
             System.out.print(bh.deleteMin() + "\t");
         }
         System.out.println();

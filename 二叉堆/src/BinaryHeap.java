@@ -124,4 +124,20 @@ public class BinaryHeap <T>{
         //数组复制
         System.arraycopy(oldArray, 1, array, 1, currentSize);
     }
+
+    //练习！！！！！！
+    //改变位置 position 上关键字的值为 y（y <= array[position]）
+    public void changeKey(int position, T y){
+        if (myCompare(y, array[position]) > 0){
+            return ;
+        }
+
+        int hole = position;
+        for (array[0] = y ; myCompare(y, array[hole / 2]) < 0 ; hole /= 2){
+            array[hole] = array[hole / 2];
+        }
+        array[hole] = y;
+    }
+
+
 }
