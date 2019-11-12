@@ -14,13 +14,13 @@ public class LinkedGraph {
     public LinkedGraph(int vexNum){
         apex = new Vertex[vexNum];
     }
-
     //输出图的信息
     public void printGraph(){
         for (Vertex v : apex){
             System.out.println(v);
         }
     }
+
 
 
     /**
@@ -39,6 +39,7 @@ public class LinkedGraph {
             Vertex v = queue.poll();
 
             for (Vertex w : v.adjVex.keySet()){
+                //未处理
                 if (w.dist == (int) Double.POSITIVE_INFINITY){
                     w.dist = v.dist + 1;
                     w.path = v;
@@ -47,13 +48,7 @@ public class LinkedGraph {
             }
         }
 
-        //输出所有路径
-        for (Vertex v : apex){
-            //输出路径长度
-            System.out.print(v.name + ".dist=" + v.dist + "\t path=");
-            printPath(v);
-            System.out.println();
-        }
+        printAllPath();
     }
 
     /**
@@ -91,7 +86,41 @@ public class LinkedGraph {
             }
         }
 
-        //输出所有路径
+        printAllPath();
+    }
+
+    /**
+     * 有负边但是无负值圈的图
+     */
+    public void minusMinPath(String sName){
+
+        LinkedList<Vertex> queue = new LinkedList<>();
+
+        Vertex s = findVex(sName);
+        s.dist = 0;
+        //入队
+        queue.offer(s);
+
+        while(! queue.isEmpty()){
+            Vertex v = queue.poll();
+
+            for (Vertex w : v.adjVex.keySet()){
+                int weight = v.adjVex.get(w);
+                if (v.dist + weight < w.dist){
+                    w.dist = v.dist + weight;
+                    w.path = v;
+                    if (! queue.contains(w)){
+                        queue.offer(w);
+                    }
+                }
+            }
+        }
+
+        printAllPath();
+    }
+
+    //输出处理后的
+    private void printAllPath(){
         for (Vertex v : apex){
             //输出路径长度
             System.out.print(v.name + ".dist=" + v.dist + "\t path=");
@@ -99,7 +128,6 @@ public class LinkedGraph {
             System.out.println();
         }
     }
-
     //根据某个终点输出某个顶点到该点的路径和路经长
     private void printPath(Vertex v){
         if (v.path != null && v.dist != 0){
