@@ -9,6 +9,8 @@ public class LinkedGraph {
     private Vertex[] apex;
     //是否加权
     private boolean isWeight;
+    //是否有向
+    private boolean isDirect;
 
     //根据节点数创建图
     public LinkedGraph(int vexNum){
@@ -22,7 +24,9 @@ public class LinkedGraph {
     }
 
 
-
+    /**
+     * 重点！！！！！！！！！！！！
+     */
     /**
      * 无权最短路径
      * 队列操作 offer / poll
@@ -180,7 +184,6 @@ public class LinkedGraph {
 
 
 
-
     //节点类
     private static class Vertex {
         public String name;             //顶点名称
@@ -200,10 +203,6 @@ public class LinkedGraph {
 
         //构造器
         public Vertex(String name) {
-            this(name, false);
-        }
-        //加权构造器
-        public Vertex(String name, boolean isWeight) {
             this.name = name;
             this.path = null;
 
@@ -254,6 +253,12 @@ public class LinkedGraph {
     }
     public void setWeight(boolean weight) {
         isWeight = weight;
+    }
+    public boolean isDirect() {
+        return isDirect;
+    }
+    public void setDirect(boolean direct) {
+        isDirect = direct;
     }
 
 }

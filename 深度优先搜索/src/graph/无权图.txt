@@ -1,0 +1,4 @@
+7 8
+A B C D E F G
+A-B A-D B-C C-D
+C-G D-E D-F E-F

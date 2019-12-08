@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ecac7a-22c7-44d9-9009-8536b7737076" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree$AVLNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/AVLTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/META-INF/AVL树.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/src/AVLTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../N乘N递增矩阵中是否存在X/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最小生成树/src/GraphUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最小生成树/src/LinkedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最小生成树/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最小生成树/src/graph/加权图.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../深度优先搜索/src/GraphUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../深度优先搜索/src/LinkedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../深度优先搜索/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../深度优先搜索/src/graph/强分支.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../深度优先搜索/src/graph/无权图.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../深度优先搜索/src/graph/欧拉回路.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../深度优先搜索/深度优先搜索.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单个字母替换可变多个单词/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../单链表是否包含循环/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单链表是否包含循环/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/out/production/寻找数组中的主元素/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/out/production/寻找数组中的主元素/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../寻找数组中的主元素/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../寻找数组中的主元素/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../最小正子序列和/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小正子序列和/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/GraphUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/GraphUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph$Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/src/GraphUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/src/GraphUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/src/LinkedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/src/LinkedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="925">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -50,7 +57,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="221" />
+    <option name="x" value="220" />
     <option name="y" value="30" />
     <option name="width" value="1500" />
     <option name="height" value="965" />
@@ -61,9 +68,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,17 +123,18 @@
       <workItem from="1559399943933" duration="1759000" />
       <workItem from="1560324121735" duration="108000" />
       <workItem from="1563441888057" duration="172000" />
+      <workItem from="1574730353517" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3248000" />
+    <option name="totallyTimeSpent" value="3269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="177" y="24" width="1200" height="772" extended-state="0" />
+    <frame x="176" y="24" width="1200" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2670753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2714536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -188,8 +196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="925">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
         </state>
       </provider>
     </entry>

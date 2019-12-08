@@ -2,6 +2,7 @@ import java.nio.BufferUnderflowException;
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 /**
  * 各种操作的平均时间约为 O(log N)
@@ -255,6 +256,35 @@ public class BinarySearchTree<T> {
             }
 
             System.out.print(front.element + "\t");
+        }
+    }
+    //非递归后序遍历
+    public void printByBacs(){
+        if (this.root == null){
+            return ;
+        }
+        Stack<BinaryNode<T>> s = new Stack<>();
+
+        BinaryNode<T> current = this.root;
+        BinaryNode<T> lastVisit = null;
+
+        while(current != null){
+            s.push(current);
+            current = current.left;
+        }
+        while(! s.isEmpty()){
+            current = s.pop();
+            if (current.right == null || current.right == lastVisit){
+                System.out.print(current.element);
+                lastVisit = current;
+            }else {
+                s.push(current);
+                current = current.right;
+                while (current != null){
+                    s.push(current);
+                    current = current.left;
+                }
+            }
         }
     }
 

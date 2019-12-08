@@ -1,0 +1,4 @@
+10 15
+A B C D E F G H I J
+D-E A-D C-A F-C B-F C-E C-D B-C
+A-B G-F H-F I-H J-I H-J G-H
