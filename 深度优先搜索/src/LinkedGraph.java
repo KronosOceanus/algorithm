@@ -53,19 +53,19 @@ public class LinkedGraph {
      * 双连通性（找出割点）
      */
     private void findArt(Vertex v){
-        v.visited = true;
-        v.low = v.num = counter ++;
+        v.visited = true;       //先序遍历
+        v.low = v.num = counter ++;     //编号（low 初始化）（1）
         for (Vertex w : v.adjVex.keySet()){
             if (! w.visited){
                 w.parent = v;
-                findArt(w);
-                if (w.low >= v.num){
+                findArt(w);     // dfs
+                if (w.low >= v.num){        //判断割点
                     //在根处总是满足该条件，所以最好验证 v 是不是生成树的根
                     System.out.println(v.name + " 是割点！");
                 }
-                v.low = Math.min(v.low, w.low);
+                v.low = Math.min(v.low, w.low);     //最 low 的（2）
             }else if (v.parent != w){
-                v.low = Math.min(v.low, w.num);
+                v.low = Math.min(v.low, w.num);     //背向边（3）
             }
         }
     }
@@ -95,8 +95,7 @@ public class LinkedGraph {
             if (! v.adjVex.keySet().isEmpty()){
                 //新一次深度优先遍历形成的路径
                 List<Vertex> circuit = new LinkedList<>();
-                //环起始点
-                circuit.add(v);
+                circuit.add(v);     //环起始点
                 dfsEuler(v, circuit);
                 //拼接环到欧拉回路上
                 euler = montage(euler, circuit);
@@ -104,10 +103,10 @@ public class LinkedGraph {
         }
         return euler;
     }
-    //欧拉回路的一次深度优先遍历（得到一个环）
+    //欧拉回路的深度优先遍历（递归/得到一个环）
     private void dfsEuler(Vertex v, List<Vertex> circuit){
         if (! v.adjVex.keySet().isEmpty()){
-            //从 map 中取出一个 key
+            //从 map 中（随便）取出一个 key
             Vertex w = v.adjVex.keySet().toArray(new Vertex[0])[0];
             //从 map 中删除该 key（以后要找出尚未访问的第一个顶点，进行另外一次深度优先遍历）
             v.adjVex.remove(w);
@@ -139,7 +138,7 @@ public class LinkedGraph {
             if (v.name.equals(point.name)){
                 euler.remove(i);
                 for (Vertex w : circuit){
-                    euler.add(i++, w);
+                    euler.add(i++, w);      // i++ 表示 list 添加元素的位置
                 }
                 return euler;
             }

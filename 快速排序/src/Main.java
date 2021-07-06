@@ -9,23 +9,7 @@ public class Main {
     public static <T extends Comparable<? super T>> void quickSort(T[] a){
         quickSort(a, 0, a.length-1);
     }
-    //三数中值分割法
-    private static <T extends Comparable<? super T>> T median3(T[] a, int left, int right){
-        int center = (left + right) / 2;
-        if (a[center].compareTo(a[left]) < 0){
-            swap(a, center, left);
-        }
-        if (a[right].compareTo(a[left]) < 0){
-            swap(a, right, left);
-        }
-        if (a[right].compareTo(a[center]) < 0){
-            swap(a, right, center);
-        }
-
-        //将枢纽元放在 right - 1 位置上
-        swap(a, center, right - 1);
-        return a[right - 1];
-    }
+    //两路快排
     private static <T extends Comparable<? super T>> void quickSort(T[] a, int left, int right){
         if (left + CUTOFF <= right){
             T pivot = median3(a, left, right);
@@ -49,6 +33,59 @@ public class Main {
         }else {
             insertSort(a, left, right);
         }
+    }
+
+    //三路快排（对于有 d 个不同值的数组排序花费 O（d N）时间）
+    public static <T extends Comparable<? super T>> void quickSort2(T[] a){
+        quickSort2(a, 0, a.length-1);
+    }
+    private static <T extends Comparable<? super T>> void quickSort2(T[] a, int left, int right){
+        if (left + CUTOFF <= right){
+            T pivot = median3(a, left, right);
+
+            int lt = left;  //小于枢纽元的目前坐标
+            int gt = right - 1; //大于枢纽元
+            int i = left + 1;   //当前遍历位置
+            while(i < gt){
+                if (a[i].compareTo(pivot) < 0){
+                    swap(a, i, lt);
+                    lt ++;
+                    i ++;
+                }else if (a[i].compareTo(pivot) > 0){
+                    swap(a, i, gt - 1);
+                    gt --;
+                }else {
+                    i ++;
+                }
+            }
+
+            //枢纽元复位（枢纽元在 right - 1 位置上）
+            swap(a, gt, right - 1);
+
+            quickSort2(a, left, lt - 1);
+            quickSort2(a, gt + 1, right);
+        }else {
+            insertSort(a, left, right);
+        }
+    }
+
+
+    //三数中值分割法
+    private static <T extends Comparable<? super T>> T median3(T[] a, int left, int right){
+        int center = (left + right) / 2;
+        if (a[center].compareTo(a[left]) < 0){
+            swap(a, center, left);
+        }
+        if (a[right].compareTo(a[left]) < 0){
+            swap(a, right, left);
+        }
+        if (a[right].compareTo(a[center]) < 0){
+            swap(a, right, center);
+        }
+
+        //将枢纽元放在 right - 1 位置上
+        swap(a, center, right - 1);
+        return a[right - 1];
     }
     //交换数组 i j 元素
     private static <T extends Comparable<? super T>> void swap(T[] a, int i, int j){
@@ -76,7 +113,7 @@ public class Main {
         integers[2] = 1;
         integers[3] = 5;
         integers[4] = 0;
-        quickSort(integers);
+        quickSort2(integers);
         for (Integer integer : integers) {
             System.out.print(integer + "\t");
         }

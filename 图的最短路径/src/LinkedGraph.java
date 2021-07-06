@@ -113,7 +113,7 @@ public class LinkedGraph {
                 if (v.dist + weight < w.dist){
                     w.dist = v.dist + weight;
                     w.path = v;
-                    if (! queue.contains(w)){
+                    if (! queue.contains(w)){   //额外步骤
                         queue.offer(w);
                     }
                 }

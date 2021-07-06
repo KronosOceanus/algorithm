@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="960a4fee-287c-4f26-94ba-c70499bc1ffe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../不相交集类/src/DisjSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../凸包问题/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/GraphUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/LinkedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/graph/maxFlow1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/graph/maxFlow2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../随机数发生器/src/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../随机数发生器/src/Random48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/out/production/Josephus问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/out/production/Josephus问题/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph$Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/src/LinkedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/src/LinkedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../归并排序/out/production/归并排序/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/out/production/归并排序/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../归并排序/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/out/production/快速判断素数/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/out/production/快速判断素数/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/out/production/快速排序/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/out/production/快速排序/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../拓扑排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../拓扑排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/META-INF/最小生成树.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/src/LinkedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/src/LinkedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../词梯游戏/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../词梯游戏/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="method#rfind#0;class#Main#0" />
+                <element signature="method#rfind2#0;class#Main#0" />
+                <element signature="method#reverse#0;class#Main#0" />
+                <element signature="method#swap#0;class#Main#0" />
+                <element signature="method#print#0;class#Main#0" />
+                <element signature="method#main#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="y" value="22" />
+    <option name="width" value="1400" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583587914563" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="字典顺序全排列" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="960a4fee-287c-4f26-94ba-c70499bc1ffe" name="Default Changelist" comment="" />
+      <created>1583488392227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583488392227</updated>
+      <workItem from="1583488393515" duration="857000" />
+      <workItem from="1583577940405" duration="2685000" />
+      <workItem from="1583587131101" duration="826000" />
+      <workItem from="1585043332008" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4857000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="18" width="1120" height="828" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3700565" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36685553" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3371105" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="method#rfind#0;class#Main#0" />
+            <element signature="method#rfind2#0;class#Main#0" />
+            <element signature="method#reverse#0;class#Main#0" />
+            <element signature="method#swap#0;class#Main#0" />
+            <element signature="method#print#0;class#Main#0" />
+            <element signature="method#main#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

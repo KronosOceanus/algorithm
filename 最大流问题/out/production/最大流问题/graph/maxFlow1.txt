@@ -1,0 +1,4 @@
+6 8
+s a b c d t
+s-a-3 s-b-2 a-b-1 a-c-3
+a-d-4 b-d-2 c-t-2 d-t-3

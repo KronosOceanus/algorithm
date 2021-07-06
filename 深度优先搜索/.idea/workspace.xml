@@ -2,29 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be8374d9-326d-4fb7-adab-310e1eef0cb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../最小生成树/src/GraphUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../最小生成树/src/LinkedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../最小生成树/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../最小生成树/src/graph/加权图.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/强分支.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/无权图.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/欧拉回路.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/深度优先搜索.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree$BinaryNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/out/production/二叉查找树/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉查找树/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../不相交集类/src/DisjSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../凸包问题/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图的最短路径/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/GraphUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/LinkedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/graph/maxFlow1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最大流问题/src/graph/maxFlow2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最小生成树/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/bw420.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../词梯游戏/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../随机数发生器/src/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../随机数发生器/src/Random48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AVL树/out/production/AVL树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/out/production/Josephus问题/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/out/production/Josephus问题/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Josephus问题/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Josephus问题/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二分查找/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/BinaryHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/out/production/二叉堆/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/src/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉堆/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉堆/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/out/production/优化gcd算法/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../优化gcd算法/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../后缀表达式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../后缀表达式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../后缀表达式/后缀表达式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../后缀表达式/后缀表达式.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../图的最短路径/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/GraphUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/GraphUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph$Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/LinkedGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../图的最短路径/src/GraphUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/src/GraphUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/graph/加权图.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/graph/加权图.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/graph/无权图.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/out/production/图的最短路径/graph/无权图.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../图的最短路径/src/LinkedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/src/LinkedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../图的最短路径/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../图的最短路径/图的最短路径.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../图的最短路径/图的最短路径.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../归并排序/out/production/归并排序/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/out/production/归并排序/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../归并排序/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../归并排序/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/out/production/快速判断素数/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/out/production/快速判断素数/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速判断素数/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../快速判断素数/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/out/production/快速排序/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/out/production/快速排序/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../快速排序/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../拓扑排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../拓扑排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/LinkedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/LinkedGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/META-INF/最小生成树.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/graph/加权图.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/out/production/最小生成树/graph/加权图.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/src/LinkedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/src/LinkedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/src/graph/加权图.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/src/graph/加权图.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最小生成树/最小生成树.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../最小生成树/最小生成树.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/深度优先搜索.iml" beforeDir="false" afterPath="$PROJECT_DIR$/深度优先搜索.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../词梯游戏/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../词梯游戏/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../词梯游戏/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../词梯游戏/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../词梯游戏/词梯游戏.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../词梯游戏/词梯游戏.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../高效幂运算/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../高效幂运算/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -84,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+            <state relative-caret-position="374">
+              <caret line="151" column="21" lean-forward="true" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
               <folding>
                 <element signature="method#LinkedGraph#0;class#LinkedGraph#0" />
                 <element signature="method#printGraph#0;class#LinkedGraph#0" />
@@ -100,20 +138,27 @@
                 <element signature="method#strongBranchs#0;class#LinkedGraph#0" />
                 <element signature="method#findStrongBranchs#0;class#LinkedGraph#0" />
                 <element signature="method#reverse#0;class#LinkedGraph#0" />
+                <element signature="e#5219#5220#0" expanded="true" />
                 <element signature="e#5265#5266#0" expanded="true" />
-                <element signature="e#6757#6758#0" expanded="true" />
-                <element signature="e#6807#6808#0" expanded="true" />
                 <element signature="method#findAndSetterVex#1;class#LinkedGraph#0" />
                 <element signature="method#findVex#0;class#LinkedGraph#0" />
                 <element signature="method#initEdges#0;class#LinkedGraph#0" />
                 <element signature="class#Edge#0;class#LinkedGraph#0" />
+                <element signature="e#8348#8349#0" expanded="true" />
                 <element signature="e#8377#8378#0" expanded="true" />
+                <element signature="e#8417#8418#0" expanded="true" />
                 <element signature="e#8453#8454#0" expanded="true" />
+                <element signature="e#8482#8483#0" expanded="true" />
                 <element signature="e#8511#8512#0" expanded="true" />
+                <element signature="e#8551#8552#0" expanded="true" />
                 <element signature="e#8587#8588#0" expanded="true" />
+                <element signature="e#8619#8620#0" expanded="true" />
                 <element signature="e#8650#8651#0" expanded="true" />
+                <element signature="e#8694#8695#0" expanded="true" />
                 <element signature="e#8727#8728#0" expanded="true" />
+                <element signature="e#8759#8760#0" expanded="true" />
                 <element signature="e#8790#8791#0" expanded="true" />
+                <element signature="e#8834#8835#0" expanded="true" />
                 <element signature="e#8867#8868#0" expanded="true" />
               </folding>
             </state>
@@ -139,10 +184,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="150" />
-    <option name="y" value="10" />
-    <option name="width" value="1400" />
-    <option name="height" value="1035" />
+    <option name="x" value="110" />
+    <option name="y" value="15" />
+    <option name="width" value="1750" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,7 +198,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,6 +220,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,11 +291,12 @@
       <workItem from="1574778388412" duration="2131000" />
       <workItem from="1574780556097" duration="2264000" />
       <workItem from="1575000980213" duration="2842000" />
+      <workItem from="1602854747366" duration="3501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24347000" />
+    <option name="totallyTimeSpent" value="27848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -261,7 +307,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19168901" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19436997" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -276,6 +322,8 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -367,15 +415,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+        <state relative-caret-position="374">
+          <caret line="151" column="21" lean-forward="true" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
           <folding>
             <element signature="method#LinkedGraph#0;class#LinkedGraph#0" />
             <element signature="method#printGraph#0;class#LinkedGraph#0" />
@@ -390,20 +438,27 @@
             <element signature="method#strongBranchs#0;class#LinkedGraph#0" />
             <element signature="method#findStrongBranchs#0;class#LinkedGraph#0" />
             <element signature="method#reverse#0;class#LinkedGraph#0" />
+            <element signature="e#5219#5220#0" expanded="true" />
             <element signature="e#5265#5266#0" expanded="true" />
-            <element signature="e#6757#6758#0" expanded="true" />
-            <element signature="e#6807#6808#0" expanded="true" />
             <element signature="method#findAndSetterVex#1;class#LinkedGraph#0" />
             <element signature="method#findVex#0;class#LinkedGraph#0" />
             <element signature="method#initEdges#0;class#LinkedGraph#0" />
             <element signature="class#Edge#0;class#LinkedGraph#0" />
+            <element signature="e#8348#8349#0" expanded="true" />
             <element signature="e#8377#8378#0" expanded="true" />
+            <element signature="e#8417#8418#0" expanded="true" />
             <element signature="e#8453#8454#0" expanded="true" />
+            <element signature="e#8482#8483#0" expanded="true" />
             <element signature="e#8511#8512#0" expanded="true" />
+            <element signature="e#8551#8552#0" expanded="true" />
             <element signature="e#8587#8588#0" expanded="true" />
+            <element signature="e#8619#8620#0" expanded="true" />
             <element signature="e#8650#8651#0" expanded="true" />
+            <element signature="e#8694#8695#0" expanded="true" />
             <element signature="e#8727#8728#0" expanded="true" />
+            <element signature="e#8759#8760#0" expanded="true" />
             <element signature="e#8790#8791#0" expanded="true" />
+            <element signature="e#8834#8835#0" expanded="true" />
             <element signature="e#8867#8868#0" expanded="true" />
           </folding>
         </state>

@@ -258,7 +258,7 @@ public class BinarySearchTree<T> {
             System.out.print(front.element + "\t");
         }
     }
-    //非递归后序遍历
+    //非递归后序遍历（左右根）
     public void printByBacs(){
         if (this.root == null){
             return ;
@@ -268,7 +268,7 @@ public class BinarySearchTree<T> {
         BinaryNode<T> current = this.root;
         BinaryNode<T> lastVisit = null;
 
-        while(current != null){
+        while(current != null){ //左入栈
             s.push(current);
             current = current.left;
         }
@@ -277,10 +277,10 @@ public class BinarySearchTree<T> {
             if (current.right == null || current.right == lastVisit){
                 System.out.print(current.element);
                 lastVisit = current;
-            }else {
-                s.push(current);
-                current = current.right;
-                while (current != null){
+            }else { //右存在且未访问
+                s.push(current);    //再放回 current（因为要先访问 current 的右）
+                current = current.right;    //访问右
+                while (current != null){    //右的左入栈
                     s.push(current);
                     current = current.left;
                 }

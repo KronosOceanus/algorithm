@@ -1,5 +1,6 @@
 public class Main {
 
+    //递归
     public static <T extends Comparable<? super T>> void mergeSort(T[] a){
         //使用附加内存
         T[] tmpArray = (T[])new Comparable[a.length];
@@ -15,6 +16,32 @@ public class Main {
             merge(a, tmpArray, left, center + 1, right);
         }
     }
+
+    //非递归
+    public static <T extends Comparable<? super T>> void mergeSort2(T[] a){
+        //使用附加内存
+        T[] tmpArray = (T[])new Comparable[a.length];
+
+        mergeSort2(a, tmpArray, 0, a.length - 1);
+    }
+    private static <T extends Comparable<? super T>> void mergeSort2(T[] a, T[] tmpArray, int left, int right){
+        int n = a.length;
+
+        for (int subListSize=1; subListSize<n; subListSize*=2){
+            int part1Start = 0;
+
+            while(part1Start + subListSize < n){
+                int part2Start = part1Start + subListSize;
+                int part2End = Math.min(n-1, part2Start + subListSize - 1);
+
+                //                           相当于 center + 1
+                merge(a, tmpArray, part1Start, part2Start, part2End);
+                part1Start = part2End + 1;
+            }
+        }
+    }
+
+    //公用方法
     private static <T extends Comparable<? super T>> void merge(T[] a, T[] tmpArray,
                                                                 int leftPos, int rightPos, int rightEnd){
         int leftEnd = rightPos - 1;
@@ -44,6 +71,7 @@ public class Main {
         }
     }
 
+
     public static void main(String[] args) {
         Integer[] integers = new Integer[5];
         integers[0] = 2;
@@ -51,7 +79,7 @@ public class Main {
         integers[2] = 1;
         integers[3] = 5;
         integers[4] = 0;
-        mergeSort(integers);
+        mergeSort2(integers);
         for (Integer integer : integers) {
             System.out.print(integer + "\t");
         }

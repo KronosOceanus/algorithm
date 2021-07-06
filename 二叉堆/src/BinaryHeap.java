@@ -138,6 +138,15 @@ public class BinaryHeap <T>{
         }
         array[hole] = y;
     }
-
+    //找出小于 x 的 k 个结点并输出
+    public void findLeftX(T x, int k){
+        int c = 0;
+        for (int i=1;array[i] != null && c<k;i++){
+            if (myCompare(array[i], x) < 0){
+                c++;
+                System.out.print(array[i] + "\t");
+            }
+        }
+    }
 
 }

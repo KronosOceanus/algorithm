@@ -30,7 +30,7 @@ public class LinkedGraph {
      */
     /**
      * 最小生成树 prim 算法
-     * 与 dijkstra 基本算法完全相同
+     * 与 dijkstra 基本算法完全相同（不同 s.path = null）
      * 最后结果储存在每个顶点的 path 中（sName 顶点除外）
      */
     public void prim(String sName){
@@ -45,7 +45,7 @@ public class LinkedGraph {
 
         Vertex s = findVex(sName);
         s.dist = 0;
-        //不同之处在于，是无向图，所以要提前修改 s.path
+        //不同之处在于，是无向图，所以要提前修改 s.path（设置邻接点的时候设置了 path）
         s.path = null;
         heap.add(s);
 
@@ -59,8 +59,8 @@ public class LinkedGraph {
                     //得到权
                     int weight = v.adjVex.get(w);
                     //找到更短路径，更新
-                    if (v.dist + weight < w.dist){
-                        w.dist = v.dist + weight;
+                    if (weight < w.dist){
+                        w.dist = weight;
                         w.path = v;
                         //入堆
                         heap.add(w);

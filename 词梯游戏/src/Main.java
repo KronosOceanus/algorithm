@@ -19,7 +19,7 @@ public class Main {
     public static List<String>
     findChain(Map<String, List<String>> adjacentWords, String first, String second){
 
-        //保存所有路径
+        //保存遍历到的所有路径
         Map<String, String> previousWord = new HashMap<>();
         LinkedList<String> queue = new LinkedList<>();
 

@@ -1,8 +1,8 @@
 public class Main {
 
     //人员编号是 1 - NUMBER
-    private static final int NUMBER = 5;
-    private static final int JUMP = 1;
+    private static final int NUMBER = 41;
+    private static final int JUMP = 3;
     public static void main(String[] args) {
         CircularLinkedList<Integer> list = new CircularLinkedList<>();
         for (int i=0;i<NUMBER;i++){

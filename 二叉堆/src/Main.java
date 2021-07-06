@@ -15,9 +15,6 @@ public class Main {
         //构建二叉堆测试
         Integer[] array = new Integer[]{7,8,2,3,0,5,4,6,8};
         BinaryHeap<Integer> bh2 = new BinaryHeap<>(array, Integer::compareTo);
-        int size = bh2.size();
-        for (int i=1;i<size;i++){
-            System.out.print(bh2.deleteMin() + "\t");
-        }
+        bh2.findLeftX(8, 5);
     }
 }
